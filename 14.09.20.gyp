@@ -1,0 +1,7 @@
+print ( "- Aura-Zlata" )
+print ( "- 05.04.2004" )
+print ( "- Republica Moldova" )
+print ( "- studii: I.P.L.T.M.E." )
+print ( "- limbi: engleza,franceza,germana" )
+print ( "- abilitati: desen,cantat" )
+print ( "- calitati: creativa,responsabila,onesta" )
